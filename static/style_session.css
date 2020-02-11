@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#container {
+  padding: 80px;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  margin: 50px;
+}
+.btn {
+  margin: 10px;
+}
